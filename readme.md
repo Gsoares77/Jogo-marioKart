@@ -27,6 +27,6 @@ Dois personagens competem em uma corrida dividida em 5 rodadas. A cada rodada, u
 ## 📁 Como executar o projeto
 
 1. Clone este repositório:
-   ```bash https://github.com/Gsoares77/Jogo-marioKart.git
- 
+   ```bash 
+ git clone https://github.com/Gsoares77/Jogo-marioKart.git
 
